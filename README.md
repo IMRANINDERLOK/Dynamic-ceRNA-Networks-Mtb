@@ -6,7 +6,7 @@ This repository contains data, scripts, and analyses from a study investigating 
 
 # 🧬 Dynamic-ceRNA-Networks-Mtb
 
-<img src="https://github.com/user-attachments/assets/007f5af0-01d8-4f92-a278-8b8ea73b124a" alt="Project Logo" width="150"/>
+https://static.wixstatic.com/media/6bc621_6fb4ef00f0f14e288abe54114c054a44~mv2.png/v1/fit/w_2500,h_1330,al_c/6bc621_6fb4ef00f0f14e288abe54114c054a44~mv2.png
 
 This repository contains data, scripts, and analyses from a study investigating **lncRNA–miRNA–mRNA interactions** that differentiate virulent (H37Rv) and avirulent (H37Ra) *Mycobacterium tuberculosis* infections in **human macrophages**, identifying key regulatory hubs and potential RNA biomarkers.
 
